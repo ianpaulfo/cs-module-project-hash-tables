@@ -12,6 +12,7 @@ class HashTableEntry:
 MIN_CAPACITY = 8
 
 
+
 class HashTable:
     """
     A hash table that with `capacity` buckets
